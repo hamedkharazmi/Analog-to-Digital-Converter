@@ -33,3 +33,4 @@ begin
 	port map(clk, ld, DIGITAL, Dout);
 end architecture behav_ADC;
 ----------------------------------------
+	

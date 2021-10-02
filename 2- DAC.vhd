@@ -14,3 +14,4 @@ begin
    ANALOG <= real(CONV_INTEGER(unsigned(DIGITAL))) * vref/real(2**n);
 end architecture behav_DAC;
 ----------------------------------------
+	

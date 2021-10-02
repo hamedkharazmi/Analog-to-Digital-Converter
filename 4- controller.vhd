@@ -41,3 +41,4 @@ begin
 	end process;
 end architecture behav_controller;
 ----------------------------------------
+	

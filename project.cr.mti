@@ -1,0 +1,159 @@
+{C:/Users/hamed/Desktop/project/2- DAC_TestBench.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/hamed/Desktop/project/2- DAC_TestBench.vhd}
+Model Technology ModelSim ALTERA vcom 6.3g_p1 Compiler 2008.08 Aug 13 2008
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Loading package math_real
+-- Compiling entity dac_testbench
+-- Compiling architecture testbench of dac_testbench
+-- Loading package std_logic_arith
+-- Loading entity dac
+
+} {} {}} {C:/Users/hamed/Desktop/project/2- DAC.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/hamed/Desktop/project/2- DAC.vhd}
+Model Technology ModelSim ALTERA vcom 6.3g_p1 Compiler 2008.08 Aug 13 2008
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Compiling entity dac
+-- Compiling architecture behav_dac of dac
+
+} {} {}} {C:/Users/hamed/Desktop/project/5- ADC_TestBench.vhd} {2 {vcom -work work -2002 -explicit {C:/Users/hamed/Desktop/project/5- ADC_TestBench.vhd}
+Model Technology ModelSim ALTERA vcom 6.3g_p1 Compiler 2008.08 Aug 13 2008
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Loading package math_real
+-- Compiling entity adc_testbench
+-- Compiling architecture testbench of adc_testbench
+-- Loading entity adc
+** Warning: [4] C:/Users/hamed/Desktop/project/5- ADC_TestBench.vhd(23): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} {C:/Users/hamed/Desktop/project/5- ADC.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/hamed/Desktop/project/5- ADC.vhd}
+Model Technology ModelSim ALTERA vcom 6.3g_p1 Compiler 2008.08 Aug 13 2008
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity adc
+-- Compiling architecture behav_adc of adc
+-- Loading entity comprator
+-- Loading entity controller
+-- Loading package std_logic_arith
+-- Loading entity dac
+-- Loading entity output
+
+} {} {}} {C:/Users/hamed/Desktop/project/1- comprator_TestBench_file.vhd} {2 {vcom -work work -2002 -explicit {C:/Users/hamed/Desktop/project/1- comprator_TestBench_file.vhd}
+Model Technology ModelSim ALTERA vcom 6.3g_p1 Compiler 2008.08 Aug 13 2008
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package math_real
+-- Loading package textio
+-- Loading package std_logic_arith
+-- Compiling entity comprator_file
+-- Compiling architecture testbench_file of comprator_file
+-- Loading entity comprator
+** Warning: [4] C:/Users/hamed/Desktop/project/1- comprator_TestBench_file.vhd(35): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} {C:/Users/hamed/Desktop/project/1- comprator_TestBench.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/hamed/Desktop/project/1- comprator_TestBench.vhd}
+Model Technology ModelSim ALTERA vcom 6.3g_p1 Compiler 2008.08 Aug 13 2008
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package math_real
+-- Compiling entity comprator_testbench
+-- Compiling architecture testbench of comprator_testbench
+-- Loading entity comprator
+
+} {} {}} {C:/Users/hamed/Desktop/project/1- comprator.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/hamed/Desktop/project/1- comprator.vhd}
+Model Technology ModelSim ALTERA vcom 6.3g_p1 Compiler 2008.08 Aug 13 2008
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity comprator
+-- Compiling architecture behav_comprator of comprator
+
+} {} {}} {C:/Users/hamed/Desktop/project/3- output_TestBench_file.vhd} {2 {vcom -work work -2002 -explicit {C:/Users/hamed/Desktop/project/3- output_TestBench_file.vhd}
+Model Technology ModelSim ALTERA vcom 6.3g_p1 Compiler 2008.08 Aug 13 2008
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Loading package math_real
+-- Loading package std_logic_arith
+-- Loading package textio
+-- Compiling entity output_file
+-- Compiling architecture testbench_file of output_file
+-- Loading entity output
+** Warning: [4] C:/Users/hamed/Desktop/project/3- output_TestBench_file.vhd(67): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} {C:/Users/hamed/Desktop/project/5- ADC_TestBench_file.vhd} {2 {vcom -work work -2002 -explicit {C:/Users/hamed/Desktop/project/5- ADC_TestBench_file.vhd}
+Model Technology ModelSim ALTERA vcom 6.3g_p1 Compiler 2008.08 Aug 13 2008
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Loading package math_real
+-- Loading package std_logic_arith
+-- Loading package textio
+-- Compiling entity adc_file
+-- Compiling architecture testbench_file of adc_file
+-- Loading entity adc
+** Warning: [4] C:/Users/hamed/Desktop/project/5- ADC_TestBench_file.vhd(57): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} {C:/Users/hamed/Desktop/project/3- output_TestBench.vhd} {2 {vcom -work work -2002 -explicit {C:/Users/hamed/Desktop/project/3- output_TestBench.vhd}
+Model Technology ModelSim ALTERA vcom 6.3g_p1 Compiler 2008.08 Aug 13 2008
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Loading package math_real
+-- Compiling entity output_testbench
+-- Compiling architecture testbench of output_testbench
+-- Loading entity output
+** Warning: [4] C:/Users/hamed/Desktop/project/3- output_TestBench.vhd(22): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} {C:/Users/hamed/Desktop/project/3- output.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/hamed/Desktop/project/3- output.vhd}
+Model Technology ModelSim ALTERA vcom 6.3g_p1 Compiler 2008.08 Aug 13 2008
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity output
+-- Compiling architecture behav_output of output
+
+} {} {}} {C:/Users/hamed/Desktop/project/4- controller_TestBench_file.vhd} {2 {vcom -work work -2002 -explicit {C:/Users/hamed/Desktop/project/4- controller_TestBench_file.vhd}
+Model Technology ModelSim ALTERA vcom 6.3g_p1 Compiler 2008.08 Aug 13 2008
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Loading package math_real
+-- Loading package std_logic_arith
+-- Loading package textio
+-- Compiling entity controller_file
+-- Compiling architecture testbench_file of controller_file
+-- Loading entity controller
+** Warning: [4] C:/Users/hamed/Desktop/project/4- controller_TestBench_file.vhd(48): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} {C:/Users/hamed/Desktop/project/4- controller_TestBench.vhd} {2 {vcom -work work -2002 -explicit {C:/Users/hamed/Desktop/project/4- controller_TestBench.vhd}
+Model Technology ModelSim ALTERA vcom 6.3g_p1 Compiler 2008.08 Aug 13 2008
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Compiling entity controller_testbench
+-- Compiling architecture testbench of controller_testbench
+-- Loading entity controller
+** Warning: [4] C:/Users/hamed/Desktop/project/4- controller_TestBench.vhd(23): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] C:/Users/hamed/Desktop/project/4- controller_TestBench.vhd(61): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} {C:/Users/hamed/Desktop/project/2- DAC_TestBench_file.vhd} {2 {vcom -work work -2002 -explicit {C:/Users/hamed/Desktop/project/2- DAC_TestBench_file.vhd}
+Model Technology ModelSim ALTERA vcom 6.3g_p1 Compiler 2008.08 Aug 13 2008
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Loading package math_real
+-- Loading package std_logic_arith
+-- Loading package textio
+-- Compiling entity dac_file
+-- Compiling architecture testbench_file of dac_file
+-- Loading entity dac
+** Warning: [4] C:/Users/hamed/Desktop/project/2- DAC_TestBench_file.vhd(34): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} {C:/Users/hamed/Desktop/project/4- controller.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/hamed/Desktop/project/4- controller.vhd}
+Model Technology ModelSim ALTERA vcom 6.3g_p1 Compiler 2008.08 Aug 13 2008
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity controller
+-- Compiling architecture behav_controller of controller
+
+} {} {}}
